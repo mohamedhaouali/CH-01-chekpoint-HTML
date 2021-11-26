@@ -1,0 +1,7 @@
+https://www.w3schools.com/html/html5_semantic_elements.asp
+
+https://www.w3schools.com/html/tryit.asp?filename=tryhtml_links_target
+
+https://developer.mozilla.org/fr/docs/Web/HTML/Element/Progress
+
+https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_dd_test
